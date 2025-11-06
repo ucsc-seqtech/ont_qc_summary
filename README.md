@@ -82,4 +82,7 @@ Different sequencing technologies offer tradeoffs between **read length** and **
 - Visualization scripts (e.g., Python/Matplotlib, R ggplot2)  
 - Documentation for sequencing tech center workflows  
 
+## Example Data
+- Sequencing summary files generated from aligned bams: [**GoogleDrive**](https://drive.google.com/drive/folders/1vwO2nlkDNYBZ1vg7pxs5SanYoAGv0AdB?usp=sharing).
+
 
